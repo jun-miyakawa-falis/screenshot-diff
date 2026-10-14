@@ -1,0 +1,19 @@
+{
+  "name": "screenshot-diff",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "diff": "node diff.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "pixelmatch": "8.0.0",
+    "playwright": "1.64.0",
+    "pngjs": "7.0.0",
+    "sharp": "0.35.5"
+  }
+}

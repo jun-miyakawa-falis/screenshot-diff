@@ -1,0 +1,7 @@
+# urls.txt にコピーして、比較したいページを1行ずつ書いてください（urls.txt は git 管理外）
+# # で始まる行は無視されます
+/
+/about/
+/about/message/
+# フルURLでもOK（パス部分だけ使われます）
+https://www.example.com/news/?id=1
